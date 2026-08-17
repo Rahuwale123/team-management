@@ -1,3 +1,8 @@
 function start(username) {
-    console.log(username);
+    if(username=="rahul wale"){
+
+    }
+    else{
+        console.log(username);
+    }
 }
